@@ -38,7 +38,7 @@ autoplay:true,
 navText:['<i class="fa fa-angle-left"></i>','<i class="fa fa-angle-right"></i>'],
   nav:false,
 dots:false,
-autoplayHoverPause: true,
+autoplayHoverPause: false,
 autoplaySpeed: 800,
   responsive:{
       0:{
