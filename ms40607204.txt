@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "perundingprismasejati.com",
+  "Id": "3f99d7c0-fcf7-4921-9640-4523fb0e288e"
+}
